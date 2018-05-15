@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\bin\Debug\MyPersonalBankAccount.exe.config
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\bin\Debug\MyPersonalBankAccount.exe
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\bin\Debug\MyPersonalBankAccount.pdb
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\obj\Debug\MyPersonalBankAccount.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\obj\Debug\MyPersonalBankAccount.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\obj\Debug\MyPersonalBankAccount.exe
+c:\users\wecancodeit\source\repos\MyPersonalBankAccount\MyPersonalBankAccount\obj\Debug\MyPersonalBankAccount.pdb

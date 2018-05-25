@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyPersonalBankAccount
 {
-    class Customer
+    abstract class Customer
     {
+        public abstract string Info();
+       
+
+
     }
 }

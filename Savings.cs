@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyPersonalBankAccount
 {
-    class Savings:Account
-    {
+    class Savings:Checking
+    {  
     }
 }
